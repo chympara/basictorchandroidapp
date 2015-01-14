@@ -1,0 +1,13 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent"
+    android:padding="@dimen/widget_margin" android:background="#000000">
+
+    <TextView android:id="@+id/flashlight_text" android:layout_width="fill_parent"
+        android:layout_height="fill_parent" android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true" android:text="@string/flashlightwidget_text"
+        android:textColor="#000000" android:textSize="16sp" android:textStyle="bold"
+        android:gravity="center"
+        android:layout_margin="8dp" android:contentDescription="@string/flashlightwidget_text"
+        android:background="#F1DAF1" android:clickable="true" />
+
+</RelativeLayout>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Torch</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="flashlightwidget_text">TORCH</string>
+    <string name="flashlighttoggle_text">TOGGLE TORCH</string>
+    <string name="add_widget">Add widget</string>
+
+</resources>
